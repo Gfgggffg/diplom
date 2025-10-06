@@ -19,7 +19,7 @@ ____
     - [X] Варианты использования Use Case
           <br><img height="300" alt="Use Case" src="https://drive.google.com/file/d/1o3nxCraq1GlH6ftGVR6lP26Q2QPlCqoH/view?usp=sharing" />
     - [X] Деятельности Activity
-          <br><img height="400" alt="Activity" src="https://github.com/user-attachments/assets/1c0a4a1c-d43b-4442-a2be-1df603110b9e" />
+          <br><img height="400" alt="Activity" src="https://drive.google.com/drive/folders/1iNjRZuuO2Nn-ZkeG21GnxDeb_YKC6jW7?dmr=1&ec=wgc-drive-globalnav-goto" />
 - [ ] База данных ссылка на таблицу и скрипт ИЛИ описание ИИ
     - [ ] Лист гугл таблицы на котором все данные
     - [ ] Скрин ER диаграммы на этом же листе
